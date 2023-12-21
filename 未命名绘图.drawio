@@ -1,9 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T02:04:51.459Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.11" etag="GtUHjfhXo_e7ZKQJtAx3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T03:13:57.792Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="E-I_g_HJ5HOg4lsCNjoj" version="22.1.11" type="github">
   <diagram name="第 1 页" id="BzUe6aH_xoUQie1TiDEt">
-    <mxGraphModel>
+    <mxGraphModel dx="1314" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-11" value="LLM 总结" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sR2iWTbtTU7IsCCFInoT-9">
+          <mxGeometry x="-0.1623" y="-3" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-3" value="黄金是被James W,Marshall发现的。" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="15" y="90" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-2" value="自从黄金在加利福尼亚被发现后，淘金热发生在1848年到1855年。" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="15" y="130" width="130" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-7" value="查找" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-4" target="sR2iWTbtTU7IsCCFInoT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-4" value="加利福尼亚的&lt;br&gt;淘金热发生在什么时候？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-8" target="sR2iWTbtTU7IsCCFInoT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-21" value="LLM添加噪声" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sR2iWTbtTU7IsCCFInoT-14">
+          <mxGeometry x="-0.475" y="1" relative="1" as="geometry">
+            <mxPoint x="19" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-8" value="在加利福尼亚州，黄金是被James W,Marshall发现的，淘金热发生在1848年到1855年。" style="rounded=1;whiteSpace=wrap;html=1;direction=south;strokeColor=#66CC00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-12" value="正确的陈述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-13" value="在加利福尼亚州，黄金是被&lt;font color=&quot;#ff0000&quot;&gt;John Sutter&lt;br&gt;&lt;/font&gt;发现的，淘金热发生在&lt;font color=&quot;#ff3333&quot;&gt;1846到1858年&lt;/font&gt;。" style="rounded=1;whiteSpace=wrap;html=1;direction=south;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-15" value="加了噪声的陈述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="70" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-16" target="sR2iWTbtTU7IsCCFInoT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-16" value="PURR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-2" target="sR2iWTbtTU7IsCCFInoT-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-13" target="sR2iWTbtTU7IsCCFInoT-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="240" as="sourcePoint" />
+            <mxPoint x="480" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-22" value="训练去噪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="318" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-23" target="sR2iWTbtTU7IsCCFInoT-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-23" target="sR2iWTbtTU7IsCCFInoT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-23" value="在加利福尼亚州，黄金是被John Sutter&lt;br&gt;发现的，淘金热发生在1846到1858年。" style="rounded=1;whiteSpace=wrap;html=1;direction=south;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="770" y="160" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-24" target="sR2iWTbtTU7IsCCFInoT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-24" value="QGen Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-27" target="sR2iWTbtTU7IsCCFInoT-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-36" value="查找" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sR2iWTbtTU7IsCCFInoT-34">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-27" value="谁发现的黄金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-28" target="sR2iWTbtTU7IsCCFInoT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-28" value="发生在什么时候" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-31" value="黄金是被James W,Marshall发现的。" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="30" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-32" target="sR2iWTbtTU7IsCCFInoT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-32" value="自从黄金在加利福尼亚被发现后，淘金热发生在1848年到1855年。" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="80" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sR2iWTbtTU7IsCCFInoT-37" target="sR2iWTbtTU7IsCCFInoT-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-37" value="PURR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="215" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-39" value="在加利福尼亚州，黄金是被&lt;font color=&quot;#66cc00&quot;&gt;James W,Marshal&lt;/font&gt;&lt;font color=&quot;#66ff66&quot;&gt;l&lt;/font&gt;发现的，淘金热发生在&lt;font color=&quot;#66cc00&quot;&gt;1848年到1855年&lt;/font&gt;。" style="rounded=1;whiteSpace=wrap;html=1;direction=south;strokeColor=#66CC00;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="160" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-51" value="陈述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="318" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-52" value="编辑后的陈述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1271" y="318" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;（1）训练PURR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR2iWTbtTU7IsCCFInoT-54" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;（2）使用PURR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="360" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
